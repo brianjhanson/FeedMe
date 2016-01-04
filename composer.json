@@ -1,0 +1,16 @@
+{
+    "name": "engram-design/feedme",
+    "description": "Feed Me is a Craft CMS plugin which makes it easy to import entries and entry data from XML, RSS or ATOM feeds. Feeds can be setup as a task in Craft's CP, or called on-demand for use in your twig templates.",
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Crawford",
+            "email": "joshua@sgroup.com.au"
+        }
+    ],
+    "minimum-stability": "dev"
+}
